@@ -5,8 +5,8 @@ Template for Spring Boot 5 MVC + jQuery Ajax + Jackson2, using Maven build tool.
 ###1. Technologies used
 * Spring Boot 2.5.2
 * Jackson 2.12.3
-* jQuery 1.10.2
-* Boostrap 3
+* jQuery 3.6.0
+* Boostrap 4.1.3
 * Maven 3
 
 ###2. To Run this project locally
