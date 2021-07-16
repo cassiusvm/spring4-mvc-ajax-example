@@ -1,4 +1,4 @@
-Spring Boot 5 MVC Ajax Example
+Spring Boot 2.5 MVC Ajax Example
 ===============================
 Template for Spring Boot 2.5 MVC + jQuery Ajax + Jackson2, using Maven build tool.
 
