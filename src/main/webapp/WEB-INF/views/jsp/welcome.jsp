@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Spring MVC 5 + Ajax Hello World</title>
+<title>Spring Boot 2.5 MVC + Ajax Hello World</title>
 
 <c:url var="home" value="/" scope="request" />
 
@@ -14,7 +14,7 @@
 <link href="${bootstrapCss}" rel="stylesheet" />
 <link href="${coreCss}" rel="stylesheet" />
 
-<spring:url value="/resources/core/js/jquery.1.10.2.min.js"
+<spring:url value="/resources/core/js/jquery-3.6.0.min.js"
 	var="jqueryJs" />
 <script src="${jqueryJs}"></script>
 </head>
@@ -22,7 +22,7 @@
 <nav class="navbar navbar-inverse">
 	<div class="container">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="#">Spring 5 MVC Ajax Hello World</a>
+			<a class="navbar-brand" href="#">Spring Boot 2.5 MVC Ajax Hello World</a>
 		</div>
 	</div>
 </nav>
