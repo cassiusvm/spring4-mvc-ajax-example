@@ -1,4 +1,4 @@
-package com.mkyong.web.model;
+package br.eti.cvm.web.model;
 
 public class SearchCriteria {
 

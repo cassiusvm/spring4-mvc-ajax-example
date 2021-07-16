@@ -1,20 +1,20 @@
-package com.mkyong.web.controller;
+package br.eti.cvm.web.controller;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import javax.annotation.PostConstruct;
 
+import br.eti.cvm.web.model.AjaxResponseBody;
+import br.eti.cvm.web.model.User;
 import org.springframework.util.StringUtils;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.fasterxml.jackson.annotation.JsonView;
-import com.mkyong.web.jsonview.Views;
-import com.mkyong.web.model.AjaxResponseBody;
-import com.mkyong.web.model.SearchCriteria;
-import com.mkyong.web.model.User;
+import br.eti.cvm.web.jsonview.Views;
+import br.eti.cvm.web.model.SearchCriteria;
 
 @RestController
 public class AjaxController {

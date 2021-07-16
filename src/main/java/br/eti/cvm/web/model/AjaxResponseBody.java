@@ -1,9 +1,9 @@
-package com.mkyong.web.model;
+package br.eti.cvm.web.model;
 
 import java.util.List;
 
 import com.fasterxml.jackson.annotation.JsonView;
-import com.mkyong.web.jsonview.Views;
+import br.eti.cvm.web.jsonview.Views;
 
 public class AjaxResponseBody {
 

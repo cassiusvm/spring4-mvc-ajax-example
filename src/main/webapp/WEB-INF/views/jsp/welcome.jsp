@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Spring MVC 4 + Ajax Hello World</title>
+<title>Spring MVC 5 + Ajax Hello World</title>
 
 <c:url var="home" value="/" scope="request" />
 
@@ -22,7 +22,7 @@
 <nav class="navbar navbar-inverse">
 	<div class="container">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="#">Spring 4 MVC Ajax Hello World</a>
+			<a class="navbar-brand" href="#">Spring 5 MVC Ajax Hello World</a>
 		</div>
 	</div>
 </nav>
@@ -64,7 +64,7 @@
 <div class="container">
 	<footer>
 		<p>
-			&copy; <a href="http://www.mkyong.com">Mkyong.com</a> 2015
+			&copy; <a href="http://www.mkyong.com">cvm.eti.br</a> 2021
 		</p>
 	</footer>
 </div>
